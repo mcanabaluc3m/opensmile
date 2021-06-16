@@ -1,0 +1,10 @@
+Executable : C:\Users\equipo\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\GitHub\opensmile\progsrc\android-template\opensmile\.cxx\cmake\debug\x86
+SMILEapi
+SMILExtract
+opensmile
+opensmile_jni
+jvmArgs : 
+

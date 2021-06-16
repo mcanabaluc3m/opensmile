@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "D:\\GitHub\\opensmile\\progsrc\\smileapi\\CMakeLists.txt",
+    "D:\\GitHub\\opensmile\\CMakeLists.txt",
+    "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\GitHub\\opensmile\\src\\include\\core\\git_version.hpp.in",
+    "D:\\GitHub\\opensmile\\src\\newmat\\CMakeLists.txt",
+    "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\CMakeLists.txt",
+    "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\GitHub\\opensmile\\progsrc\\smilextract\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opensmile_jni-Debug-x86_64": {
+      "artifactName": "opensmile_jni",
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" opensmile_jni",
+      "abi": "x86_64",
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libopensmile_jni.so",
+      "runtimeFiles": []
+    },
+    "SMILExtract-Debug-x86_64": {
+      "artifactName": "SMILExtract",
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" SMILExtract",
+      "abi": "x86_64",
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\progsrc\\smilextract\\SMILExtract",
+      "runtimeFiles": []
+    },
+    "opensmile-Debug-x86_64": {
+      "artifactName": "opensmile",
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" opensmile",
+      "abi": "x86_64",
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libopensmile.so",
+      "runtimeFiles": []
+    },
+    "SMILEapi-Debug-x86_64": {
+      "artifactName": "SMILEapi",
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" SMILEapi",
+      "abi": "x86_64",
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libSMILEapi.so",
+      "runtimeFiles": []
+    }
+  }
+}

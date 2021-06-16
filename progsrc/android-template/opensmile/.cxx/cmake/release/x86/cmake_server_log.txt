@@ -1,0 +1,536 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "D:/GitHub/opensmile/progsrc/android-template/opensmile",
+  "buildDirectory": "D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions -std\u003dc++11 -Wno-c++11-narrowing -fuse-ld\u003dgold",
+    "-DCMAKE_FIND_ROOT_PATH\u003dD:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\prefab\\x86\\prefab",
+    "-DCMAKE_BUILD_TYPE\u003dRelease",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "-DANDROID_ABI\u003dx86",
+    "-DANDROID_NDK\u003dC:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\release\\obj\\x86",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d23",
+    "-DSTATIC_LINK\u003dOFF",
+    "-DOPENSMILE_ROOT\u003d../../../",
+    "-DANDROID_PLATFORM\u003dandroid-23",
+    "-DANDROID_NATIVE_API_LEVEL\u003d28"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: Check for working C compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":33,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+CMAKE SERVER: Check for working C compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":65,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":96,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":126,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":155,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: Check for working CXX compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":184,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+CMAKE SERVER: Check for working CXX compiler: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":211,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":237,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":262,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":287,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":311,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Generating with COMPILESOURCE flavor.","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating with COMPILESOURCE flavor.
+CMAKE SERVER: Generating with COMPILESOURCE flavor.
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":334,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found Git: C:/Users/equipo/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe (found version \"2.30.0.windows.2\") ","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found Git: C:/Users/equipo/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe (found version "2.30.0.windows.2") 
+CMAKE SERVER: Found Git: C:/Users/equipo/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe (found version "2.30.0.windows.2") 
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":356,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":377,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":398,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread.h","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread.h
+CMAKE SERVER: Looking for pthread.h
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":418,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread.h - found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread.h - found
+CMAKE SERVER: Looking for pthread.h - found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread_create","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread_create
+CMAKE SERVER: Looking for pthread_create
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":438,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread_create - found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread_create - found
+CMAKE SERVER: Looking for pthread_create - found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found Threads: TRUE  ","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found Threads: TRUE  
+CMAKE SERVER: Found Threads: TRUE  
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":919,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":940,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":960,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":979,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":200,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":400,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":600,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":800,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindGit.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindThreads.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckLibraryExists.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.c.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake","C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","../../../CMakeLists.txt","../../../src/include/core/git_version.hpp.in","../../../src/newmat/CMakeLists.txt","../../smileapi/CMakeLists.txt","../../smilextract/CMakeLists.txt"]},{"isCMake":false,"isTemporary":true,"sources":[".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake",".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake",".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake",".cxx/cmake/release/x86/CMakeFiles/feature_tests.c",".cxx/cmake/release/x86/CMakeFiles/feature_tests.c",".cxx/cmake/release/x86/CMakeFiles/feature_tests.c",".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake",".cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx",".cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx",".cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx",".cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx",".cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"C:/Users/equipo/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Release","projects":[{"buildDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86","name":"openSMILE","sourceDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile","targets":[{"artifacts":["D:/GitHub/opensmile/progsrc/android-template/opensmile/build/intermediates/cmake/release/obj/x86/libopensmile_jni.so"],"buildDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG  -fPIC   -std=gnu++11","defines":["opensmile_jni_EXPORTS"],"includePath":[{"path":"D:/GitHub/opensmile/progsrc/smileapi/../../progsrc/include"}],"isGenerated":false,"language":"CXX","sources":["opensmile_wrap.cxx"]},{"isGenerated":false,"sources":["opensmile_wrap.h"]}],"fullName":"libopensmile_jni.so","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"..\\..\\..\\..\\build\\intermediates\\cmake\\release\\obj\\x86\\libSMILEapi.so -llog -latomic -lm","linkerLanguage":"CXX","name":"opensmile_jni","sourceDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile","sysroot":"C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"MODULE_LIBRARY"},{"buildDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG  -DNDEBUG -fPIC   -std=gnu++11","defines":["HAVE_PTHREAD","HAVE_UNISTD_H","__ANDROID__"],"includePath":[{"path":"D:/GitHub/opensmile/src/newmat/../../src/include"}],"isGenerated":false,"language":"CXX","sources":["bandmat.cpp","cholesky.cpp","evalue.cpp","fft.cpp","hholder.cpp","jacobi.cpp","myexcept.cpp","newfft.cpp","newmat1.cpp","newmat2.cpp","newmat3.cpp","newmat4.cpp","newmat5.cpp","newmat6.cpp","newmat7.cpp","newmat8.cpp","newmat9.cpp","newmatex.cpp","newmatnl.cpp","newmatrm.cpp","solution.cpp","sort.cpp","submat.cpp","svd.cpp"]}],"fullName":"newmat","name":"newmat","sourceDirectory":"D:/GitHub/opensmile/src/newmat","type":"OBJECT_LIBRARY"},{"artifacts":["D:/GitHub/opensmile/progsrc/android-template/opensmile/build/intermediates/cmake/release/obj/x86/libopensmile.so"],"buildDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile","fileGroups":[{"isGenerated":true,"sources":["progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/bandmat.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/cholesky.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/evalue.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/fft.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/hholder.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/jacobi.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/myexcept.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newfft.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat1.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat2.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat3.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat4.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat5.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat6.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat7.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat8.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmat9.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmatex.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmatnl.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/newmatrm.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/solution.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/sort.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/submat.cpp.o","progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/newmat/CMakeFiles/newmat.dir/svd.cpp.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG  -DNDEBUG -fPIC   -ffast-math -ftree-vectorize -std=gnu++11","defines":["BUILDING_DLL","HAVE_PTHREAD","HAVE_UNISTD_H","__ANDROID__","opensmile_EXPORTS"],"includePath":[{"path":"D:/GitHub/opensmile/src/include"},{"path":"D:/GitHub/opensmile/progsrc/include"},{"path":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/include"}],"isGenerated":false,"language":"CXX","sources":["src/classifiers/julius/juliusSink.cpp","src/classifiers/libsvm/svm.cpp","src/classifiers/libsvmliveSink.cpp","src/classifiers/svmSink.cpp","src/core/commandlineParser.cpp","src/core/componentManager.cpp","src/core/configManager.cpp","src/core/dataMemory.cpp","src/core/dataProcessor.cpp","src/core/dataReader.cpp","src/core/dataSelector.cpp","src/core/dataSink.cpp","src/core/dataSource.cpp","src/core/dataWriter.cpp","src/core/exceptions.cpp","src/core/nullSink.cpp","src/core/smileCommon.cpp","src/core/smileComponent.cpp","src/core/smileLogger.cpp","src/core/vecToWinProcessor.cpp","src/core/vectorProcessor.cpp","src/core/vectorTransform.cpp","src/core/winToVecProcessor.cpp","src/core/windowProcessor.cpp","src/dsp/dbA.cpp","src/dsp/signalGenerator.cpp","src/dsp/smileResample.cpp","src/dsp/specResample.cpp","src/dsp/vadV1.cpp","src/dsp/specScale.cpp","src/dspcore/acf.cpp","src/dspcore/amdf.cpp","src/dspcore/contourSmoother.cpp","src/dspcore/deltaRegression.cpp","src/dspcore/fftmagphase.cpp","src/dspcore/framer.cpp","src/dspcore/fullinputMean.cpp","src/dspcore/fullturnMean.cpp","src/dspcore/monoMixdown.cpp","src/dspcore/preemphasis.cpp","src/dspcore/transformFft.cpp","src/dspcore/turnDetector.cpp","src/dspcore/vectorMVN.cpp","src/dspcore/vectorPreemphasis.cpp","src/dspcore/windower.cpp","src/examples/exampleSink.cpp","src/examples/exampleSource.cpp","src/examples/simpleMessageSender.cpp","src/ffmpeg/ffmpegSource.cpp","src/functionals/functionalComponent.cpp","src/functionals/functionalCrossings.cpp","src/functionals/functionalDCT.cpp","src/functionals/functionalExtremes.cpp","src/functionals/functionalLpc.cpp","src/functionals/functionalMeans.cpp","src/functionals/functionalMoments.cpp","src/functionals/functionalOnset.cpp","src/functionals/functionalPeaks.cpp","src/functionals/functionalPeaks2.cpp","src/functionals/functionalPercentiles.cpp","src/functionals/functionalRegression.cpp","src/functionals/functionalSamples.cpp","src/functionals/functionalSegments.cpp","src/functionals/functionalTimes.cpp","src/functionals/functionalModulation.cpp","src/functionals/functionals.cpp","src/io/libsvmSink.cpp","src/iocore/arffSink.cpp","src/iocore/arffSource.cpp","src/iocore/csvSink.cpp","src/iocore/csvSource.cpp","src/iocore/datadumpSink.cpp","src/iocore/dataPrintSink.cpp","src/iocore/htkSink.cpp","src/iocore/htkSource.cpp","src/iocore/externalSink.cpp","src/iocore/externalSource.cpp","src/iocore/externalAudioSource.cpp","src/iocore/waveSink.cpp","src/iocore/waveSinkCut.cpp","src/iocore/waveSource.cpp","src/lld/cens.cpp","src/lld/chroma.cpp","src/lld/formantLpc.cpp","src/lld/formantSmoother.cpp","src/lld/lpc.cpp","src/lld/lsp.cpp","src/lld/pitchDirection.cpp","src/lld/pitchJitter.cpp","src/lld/pitchShs.cpp","src/lld/pitchSmootherViterbi.cpp","src/lld/tonefilt.cpp","src/lld/tonespec.cpp","src/lld/harmonics.cpp","src/lldcore/energy.cpp","src/lldcore/intensity.cpp","src/lldcore/melspec.cpp","src/lldcore/mfcc.cpp","src/lldcore/mzcr.cpp","src/lldcore/pitchACF.cpp","src/lldcore/pitchBase.cpp","src/lldcore/pitchSmoother.cpp","src/lldcore/plp.cpp","src/lldcore/spectral.cpp","src/other/bowProducer.cpp","src/other/maxIndex.cpp","src/other/valbasedSelector.cpp","src/other/vectorConcat.cpp","src/other/vectorBinaryOperation.cpp","src/other/vectorOperation.cpp","src/other/externalMessageInterface.cpp","src/portaudio/portaudioDuplex.cpp","src/portaudio/portaudioSink.cpp","src/portaudio/portaudioSource.cpp","src/portaudio/portaudioWavplayer.cpp","src/android/openslesSource.cpp","src/android/jniMessageInterface.cpp","src/rnn/rnn.cpp","src/rnn/rnnProcessor.cpp","src/rnn/rnnSink.cpp","src/rnn/rnnVad2.cpp","src/smileutil/smileUtilCsv.cpp","src/smileutil/zerosolve.cpp","src/smileutil/JsonClasses.cpp","src/video/openCVSource.cpp"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -DNDEBUG -fPIC   -ffast-math -ftree-vectorize","defines":["BUILDING_DLL","HAVE_PTHREAD","HAVE_UNISTD_H","__ANDROID__","opensmile_EXPORTS"],"includePath":[{"path":"D:/GitHub/opensmile/src/include"},{"path":"D:/GitHub/opensmile/progsrc/include"},{"path":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/include"}],"isGenerated":false,"language":"C","sources":["src/dspcore/fftsg.c","src/smileutil/smileUtil.c","src/smileutil/smileUtilSpline.c"]}],"fullName":"libopensmile.so","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-ldl -llog -latomic -lm","linkerLanguage":"CXX","name":"opensmile","sourceDirectory":"D:/GitHub/opensmile","sysroot":"C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["D:/GitHub/opensmile/progsrc/android-template/opensmile/build/intermediates/cmake/release/obj/x86/libSMILEapi.so"],"buildDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/progsrc/smileapi","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG  -DNDEBUG -fPIC   -std=gnu++11","defines":["HAVE_PTHREAD","HAVE_UNISTD_H","SMILEapi_EXPORTS","__ANDROID__"],"includePath":[{"path":"D:/GitHub/opensmile/progsrc/smileapi/../../src/include"},{"path":"D:/GitHub/opensmile/progsrc/smileapi/../../progsrc/include"},{"path":"D:/GitHub/opensmile/src/include"},{"path":"D:/GitHub/opensmile/progsrc/include"},{"path":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/include"}],"isGenerated":false,"language":"CXX","sources":["SMILEapi.cpp"]},{"isGenerated":false,"sources":["SMILEapi.def"]}],"fullName":"libSMILEapi.so","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"..\\..\\..\\..\\..\\..\\..\\build\\intermediates\\cmake\\release\\obj\\x86\\libopensmile.so -latomic -lm","linkerLanguage":"CXX","name":"SMILEapi","sourceDirectory":"D:/GitHub/opensmile/progsrc/smileapi","sysroot":"C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/progsrc/smilextract/SMILExtract"],"buildDirectory":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/progsrc/smilextract","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG  -DNDEBUG -fPIE   -std=gnu++11","defines":["HAVE_PTHREAD","HAVE_UNISTD_H","__ANDROID__"],"includePath":[{"path":"D:/GitHub/opensmile/src/include"},{"path":"D:/GitHub/opensmile/progsrc/include"},{"path":"D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/x86/opensmile/src/include"}],"isGenerated":false,"language":"CXX","sources":["SMILExtract.cpp"]}],"fullName":"SMILExtract","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG  -DNDEBUG","linkLibraries":"..\\..\\..\\..\\..\\..\\..\\build\\intermediates\\cmake\\release\\obj\\x86\\libopensmile.so -latomic -lm","linkerLanguage":"CXX","name":"SMILExtract","sourceDirectory":"D:/GitHub/opensmile/progsrc/smilextract","sysroot":"C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"EXECUTABLE"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

@@ -1,0 +1,874 @@
+{
+  "stringTable": {
+    "0": "D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dopensmile_jni_EXPORTS -ID:/GitHub/opensmile/progsrc/smileapi/../../progsrc/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG -fPIC -std=gnu++11",
+    "2": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG -DNDEBUG -fPIC -ffast-math -ftree-vectorize -std=gnu++11",
+    "3": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -DNDEBUG -fPIC -ffast-math -ftree-vectorize",
+    "4": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -I../../../../../../../src/newmat/../../src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG -DNDEBUG -fPIC -std=gnu++11",
+    "5": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -DSMILEapi_EXPORTS -D__ANDROID__ -I../../../../../../smileapi/../../src/include -I../../../../../../smileapi/../../progsrc/include -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG -DNDEBUG -fPIC -std=gnu++11",
+    "6": "--target=aarch64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O2 -DNDEBUG -DNDEBUG -fPIE -std=gnu++11",
+    "7": "null"
+  },
+  "buildFiles": [
+    "D:\\GitHub\\opensmile\\progsrc\\smileapi\\CMakeLists.txt",
+    "D:\\GitHub\\opensmile\\CMakeLists.txt",
+    "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\GitHub\\opensmile\\src\\include\\core\\git_version.hpp.in",
+    "D:\\GitHub\\opensmile\\src\\newmat\\CMakeLists.txt",
+    "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\CMakeLists.txt",
+    "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\GitHub\\opensmile\\progsrc\\smilextract\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "SMILEapi-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\" SMILEapi",
+      "buildType": "release",
+      "toolchain": "1334904960",
+      "abi": "arm64-v8a",
+      "artifactName": "SMILEapi",
+      "files": [
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\smileapi\\SMILEapi.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\smileapi\\SMILEapi.def",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libSMILEapi.so",
+      "runtimeFiles": []
+    },
+    "opensmile-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\" opensmile",
+      "buildType": "release",
+      "toolchain": "1334904960",
+      "abi": "arm64-v8a",
+      "artifactName": "opensmile",
+      "files": [
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\bandmat.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\cholesky.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\evalue.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\fft.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\hholder.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\jacobi.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\myexcept.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newfft.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat1.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat2.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat3.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat4.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat5.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat6.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat7.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat8.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat9.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatex.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatnl.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatrm.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\solution.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\sort.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\submat.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\svd.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\classifiers\\julius\\juliusSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\classifiers\\libsvm\\svm.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\classifiers\\libsvmliveSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\classifiers\\svmSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\commandlineParser.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\componentManager.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\configManager.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataMemory.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataProcessor.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataReader.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataSelector.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\dataWriter.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\exceptions.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\nullSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\smileCommon.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\smileComponent.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\smileLogger.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\vecToWinProcessor.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\vectorProcessor.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\vectorTransform.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\winToVecProcessor.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\core\\windowProcessor.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dsp\\dbA.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dsp\\signalGenerator.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dsp\\smileResample.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dsp\\specResample.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dsp\\vadV1.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dsp\\specScale.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\acf.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\amdf.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\contourSmoother.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\deltaRegression.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\fftmagphase.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\framer.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\fullinputMean.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\fullturnMean.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\monoMixdown.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\preemphasis.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\transformFft.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\turnDetector.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\vectorMVN.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\vectorPreemphasis.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\windower.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\examples\\exampleSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\examples\\exampleSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\examples\\simpleMessageSender.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\ffmpeg\\ffmpegSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalComponent.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalCrossings.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalDCT.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalExtremes.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalLpc.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalMeans.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalMoments.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalOnset.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalPeaks.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalPeaks2.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalPercentiles.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalRegression.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalSamples.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalSegments.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalTimes.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionalModulation.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\functionals\\functionals.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\io\\libsvmSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\arffSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\arffSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\csvSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\csvSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\datadumpSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\dataPrintSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\htkSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\htkSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\externalSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\externalSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\externalAudioSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\waveSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\waveSinkCut.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\iocore\\waveSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\cens.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\chroma.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\formantLpc.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\formantSmoother.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\lpc.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\lsp.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\pitchDirection.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\pitchJitter.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\pitchShs.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\pitchSmootherViterbi.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\tonefilt.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\tonespec.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lld\\harmonics.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\energy.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\intensity.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\melspec.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\mfcc.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\mzcr.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\pitchACF.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\pitchBase.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\pitchSmoother.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\plp.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\lldcore\\spectral.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\bowProducer.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\maxIndex.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\valbasedSelector.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\vectorConcat.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\vectorBinaryOperation.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\vectorOperation.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\other\\externalMessageInterface.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\portaudio\\portaudioDuplex.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\portaudio\\portaudioSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\portaudio\\portaudioSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\portaudio\\portaudioWavplayer.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\android\\openslesSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\android\\jniMessageInterface.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\rnn\\rnn.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\rnn\\rnnProcessor.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\rnn\\rnnSink.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\rnn\\rnnVad2.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\smileutil\\smileUtilCsv.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\smileutil\\zerosolve.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\smileutil\\JsonClasses.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\video\\openCVSource.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\dspcore\\fftsg.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\smileutil\\smileUtil.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\src\\smileutil\\smileUtilSpline.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libopensmile.so",
+      "runtimeFiles": []
+    },
+    "opensmile_jni-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\" opensmile_jni",
+      "buildType": "release",
+      "toolchain": "1334904960",
+      "abi": "arm64-v8a",
+      "artifactName": "opensmile_jni",
+      "files": [
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\opensmile_wrap.cxx",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\opensmile_wrap.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libopensmile_jni.so",
+      "runtimeFiles": []
+    },
+    "SMILExtract-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\" SMILExtract",
+      "buildType": "release",
+      "toolchain": "1334904960",
+      "abi": "arm64-v8a",
+      "artifactName": "SMILExtract",
+      "files": [
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\smilextract\\SMILExtract.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\release\\arm64-v8a\\opensmile\\progsrc\\smilextract\\SMILExtract",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1334904960": {
+      "cCompilerExecutable": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp",
+    "cxx"
+  ]
+}

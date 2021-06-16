@@ -1,0 +1,4 @@
+ninja: Entering directory `D:\GitHub\opensmile\progsrc\android-template\opensmile\.cxx\cmake\release\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/opensmile_jni.dir/opensmile_wrap.cxx.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[2/2] Linking CXX shared module ..\..\..\..\build\intermediates\cmake\release\obj\arm64-v8a\libopensmile_jni.so
