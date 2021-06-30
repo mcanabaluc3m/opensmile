@@ -2,11 +2,11 @@
   "stringTable": {
     "0": "D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/debug/x86_64",
     "1": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dopensmile_jni_EXPORTS -ID:/GitHub/opensmile/progsrc/smileapi/../../progsrc/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -fPIC -std=gnu++11",
-    "2": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize -std=gnu++11",
-    "3": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize",
-    "4": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -I../../../../../../../src/newmat/../../src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -std=gnu++11",
-    "5": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -DSMILEapi_EXPORTS -D__ANDROID__ -I../../../../../../smileapi/../../src/include -I../../../../../../smileapi/../../progsrc/include -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -std=gnu++11",
-    "6": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIE -std=gnu++11",
+    "2": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -DWITH_OPENSLES=ON -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize -std=gnu++11",
+    "3": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -DWITH_OPENSLES=ON -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize",
+    "4": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -DWITH_OPENSLES=ON -D__ANDROID__ -I../../../../../../../src/newmat/../../src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -std=gnu++11",
+    "5": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -DSMILEapi_EXPORTS -DWITH_OPENSLES=ON -D__ANDROID__ -I../../../../../../smileapi/../../src/include -I../../../../../../smileapi/../../progsrc/include -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -std=gnu++11",
+    "6": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -DWITH_OPENSLES=ON -D__ANDROID__ -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIE -std=gnu++11",
     "7": "null"
   },
   "buildFiles": [
@@ -44,7 +44,9 @@
         }
       ],
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libopensmile_jni.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libSMILEapi.so"
+      ]
     },
     "SMILExtract-Debug-x86_64": {
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" SMILExtract",
@@ -61,7 +63,9 @@
       ],
       "headers": [],
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\progsrc\\smilextract\\SMILExtract",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libopensmile.so"
+      ]
     },
     "opensmile-Debug-x86_64": {
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\" opensmile",
@@ -70,6 +74,126 @@
       "abi": "x86_64",
       "artifactName": "opensmile",
       "files": [
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\bandmat.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\cholesky.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\evalue.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\fft.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\hholder.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\jacobi.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\myexcept.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newfft.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat1.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat2.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat3.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat4.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat5.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat6.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat7.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat8.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat9.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatex.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatnl.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatrm.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\solution.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\sort.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\submat.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\svd.cpp.o",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
         {
           "src": "D:\\GitHub\\opensmile\\src\\classifiers\\julius\\juliusSink.cpp",
           "flagsOrdinal": 2,
@@ -696,126 +820,6 @@
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\bandmat.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\cholesky.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\evalue.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\fft.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\hholder.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\jacobi.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\myexcept.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newfft.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat1.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat2.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat3.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat4.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat5.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat6.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat7.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat8.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmat9.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatex.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatnl.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\newmatrm.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\solution.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\sort.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\submat.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
-          "src": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86_64\\opensmile\\src\\newmat\\CMakeFiles\\newmat.dir\\svd.cpp.o",
-          "flagsOrdinal": 7,
-          "workingDirectoryOrdinal": 0
-        },
-        {
           "src": "D:\\GitHub\\opensmile\\src\\dspcore\\fftsg.c",
           "flagsOrdinal": 3,
           "workingDirectoryOrdinal": 0
@@ -855,7 +859,9 @@
       ],
       "headers": [],
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libSMILEapi.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libopensmile.so"
+      ]
     }
   },
   "toolchains": {
@@ -868,7 +874,7 @@
     "c"
   ],
   "cppFileExtensions": [
-    "cpp",
-    "cxx"
+    "cxx",
+    "cpp"
   ]
 }

@@ -4,6 +4,7 @@
     "D:\\GitHub\\opensmile\\CMakeLists.txt",
     "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
     "D:\\GitHub\\opensmile\\src\\include\\core\\git_version.hpp.in",
+    "D:\\GitHub\\opensmile\\cmake\\FindOpenSLES.cmake",
     "D:\\GitHub\\opensmile\\src\\newmat\\CMakeLists.txt",
     "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\CMakeLists.txt",
     "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
@@ -19,7 +20,9 @@
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\" SMILExtract",
       "abi": "x86",
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\\opensmile\\progsrc\\smilextract\\SMILExtract",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libopensmile.so"
+      ]
     },
     "opensmile-Debug-x86": {
       "artifactName": "opensmile",
@@ -33,14 +36,18 @@
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\" SMILEapi",
       "abi": "x86",
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libSMILEapi.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libopensmile.so"
+      ]
     },
     "opensmile_jni-Debug-x86": {
       "artifactName": "opensmile_jni",
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\" opensmile_jni",
       "abi": "x86",
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libopensmile_jni.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libSMILEapi.so"
+      ]
     }
   }
 }

@@ -4,6 +4,7 @@
     "D:\\GitHub\\opensmile\\CMakeLists.txt",
     "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
     "D:\\GitHub\\opensmile\\src\\include\\core\\git_version.hpp.in",
+    "D:\\GitHub\\opensmile\\cmake\\FindOpenSLES.cmake",
     "D:\\GitHub\\opensmile\\src\\newmat\\CMakeLists.txt",
     "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\CMakeLists.txt",
     "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
@@ -26,21 +27,27 @@
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\armeabi-v7a\" opensmile_jni",
       "abi": "armeabi-v7a",
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libopensmile_jni.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libSMILEapi.so"
+      ]
     },
     "SMILExtract-Debug-armeabi-v7a": {
       "artifactName": "SMILExtract",
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\armeabi-v7a\" SMILExtract",
       "abi": "armeabi-v7a",
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\armeabi-v7a\\opensmile\\progsrc\\smilextract\\SMILExtract",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libopensmile.so"
+      ]
     },
     "SMILEapi-Debug-armeabi-v7a": {
       "artifactName": "SMILEapi",
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\armeabi-v7a\" SMILEapi",
       "abi": "armeabi-v7a",
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libSMILEapi.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libopensmile.so"
+      ]
     }
   }
 }

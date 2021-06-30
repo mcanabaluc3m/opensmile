@@ -17,4 +17,5 @@ Looking for pthread.h - found
 Looking for pthread_create
 Looking for pthread_create - found
 Found Threads: TRUE  
+Found OpenSLES: C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/i686-linux-android/23/libOpenSLES.so
 Configuring done

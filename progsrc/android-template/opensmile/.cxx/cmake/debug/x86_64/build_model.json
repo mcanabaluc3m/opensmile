@@ -86,6 +86,10 @@
         {
           "name": "ANDROID_NATIVE_API_LEVEL",
           "value": "28"
+        },
+        {
+          "name": "BUILD_FLAGS",
+          "value": "-DWITH_OPENSLES\u003dON"
         }
       ]
     }
@@ -105,7 +109,7 @@
       "-DBUILD_FLAGS\u003d-DBUILD_WITHOUT_EXPERIMENTAL",
       "-DANDROID_PLATFORM\u003dandroid-23",
       "-DANDROID_NATIVE_API_LEVEL\u003d28",
-      "-DBUILD_FLAGS\u003d"
+      "-DBUILD_FLAGS\u003d-DWITH_OPENSLES\u003dON"
     ],
     "buildTargetSet": [],
     "cFlagsList": [],

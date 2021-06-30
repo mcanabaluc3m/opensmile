@@ -2,8 +2,8 @@
   "stringTable": {
     "0": "D:/GitHub/opensmile/progsrc/android-template/opensmile/.cxx/cmake/debug/x86",
     "1": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dopensmile_jni_EXPORTS -ID:/GitHub/opensmile/progsrc/smileapi/../../progsrc/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -fPIC -std=gnu++11",
-    "2": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize -std=gnu++11",
-    "3": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize",
+    "2": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_OPENSLES -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize -std=gnu++11",
+    "3": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBUILDING_DLL -DHAVE_OPENSLES -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -Dopensmile_EXPORTS -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -D_DEBUG -fPIC -ffast-math -ftree-vectorize",
     "4": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -I../../../../../../../src/newmat/../../src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -std=gnu++11",
     "5": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -DSMILEapi_EXPORTS -D__ANDROID__ -I../../../../../../smileapi/../../src/include -I../../../../../../smileapi/../../progsrc/include -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIC -std=gnu++11",
     "6": "--target=i686-none-linux-android23 --gcc-toolchain=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DHAVE_PTHREAD -DHAVE_UNISTD_H -D__ANDROID__ -I../../../../../../../src/include -I../../../../../../include -Iopensmile/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -Wno-c++11-narrowing -fuse-ld=gold -O0 -fno-limit-debug-info -D_DEBUG -fPIE -std=gnu++11",
@@ -14,6 +14,7 @@
     "D:\\GitHub\\opensmile\\CMakeLists.txt",
     "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
     "D:\\GitHub\\opensmile\\src\\include\\core\\git_version.hpp.in",
+    "D:\\GitHub\\opensmile\\cmake\\FindOpenSLES.cmake",
     "D:\\GitHub\\opensmile\\src\\newmat\\CMakeLists.txt",
     "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\CMakeLists.txt",
     "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
@@ -39,7 +40,9 @@
       ],
       "headers": [],
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\\opensmile\\progsrc\\smilextract\\SMILExtract",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libopensmile.so"
+      ]
     },
     "opensmile-Debug-x86": {
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\" opensmile",
@@ -833,7 +836,9 @@
       ],
       "headers": [],
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libSMILEapi.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libopensmile.so"
+      ]
     },
     "opensmile_jni-Debug-x86": {
       "buildCommand": "C:\\Users\\equipo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\.cxx\\cmake\\debug\\x86\" opensmile_jni",
@@ -855,7 +860,9 @@
         }
       ],
       "output": "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libopensmile_jni.so",
-      "runtimeFiles": []
+      "runtimeFiles": [
+        "D:\\GitHub\\opensmile\\progsrc\\android-template\\opensmile\\build\\intermediates\\cmake\\debug\\obj\\x86\\libSMILEapi.so"
+      ]
     }
   },
   "toolchains": {

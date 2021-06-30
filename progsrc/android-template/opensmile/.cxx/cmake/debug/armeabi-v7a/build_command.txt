@@ -18,6 +18,7 @@ arguments :
 -DOPENSMILE_ROOT=../../../
 -DANDROID_PLATFORM=android-23
 -DANDROID_NATIVE_API_LEVEL=28
+-DWITH_OPENSLES=ON
 -BD:\GitHub\opensmile\progsrc\android-template\opensmile\.cxx\cmake\debug\armeabi-v7a
 -GNinja
 jvmArgs : 

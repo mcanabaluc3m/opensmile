@@ -1,4 +1,312 @@
 ninja: Entering directory `D:\GitHub\opensmile\progsrc\android-template\opensmile\.cxx\cmake\debug\arm64-v8a'
-[1/2] Building CXX object CMakeFiles/opensmile_jni.dir/opensmile_wrap.cxx.o
+[1/159] Building CXX object CMakeFiles/opensmile_jni.dir/opensmile_wrap.cxx.o
 clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
-[2/2] Linking CXX shared module ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libopensmile_jni.so
+[2/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/classifiers/svmSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[3/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/classifiers/libsvm/svm.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[4/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/classifiers/julius/juliusSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[5/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/classifiers/libsvmliveSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[6/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/commandlineParser.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[7/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/smileCommon.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[8/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/exceptions.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[9/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[10/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataProcessor.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[11/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/smileLogger.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[12/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataSelector.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[13/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[14/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataWriter.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[15/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataMemory.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[16/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/nullSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[17/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/dataReader.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[18/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/smileComponent.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[19/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/configManager.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[20/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/componentManager.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[21/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/vecToWinProcessor.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[22/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/vectorProcessor.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[23/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dsp/dbA.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[24/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/vectorTransform.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[25/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/windowProcessor.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[26/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dsp/smileResample.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[27/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dsp/signalGenerator.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[28/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dsp/vadV1.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[29/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dsp/specResample.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[30/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/core/winToVecProcessor.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[31/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dsp/specScale.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[32/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/acf.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[33/159] Building C object opensmile/CMakeFiles/opensmile.dir/src/dspcore/fftsg.c.o
+[34/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/deltaRegression.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[35/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/amdf.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[36/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/fullinputMean.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[37/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/contourSmoother.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[38/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/framer.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[39/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/fftmagphase.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[40/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/fullturnMean.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[41/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/vectorPreemphasis.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[42/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/transformFft.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[43/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/preemphasis.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[44/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/windower.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[45/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/examples/exampleSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[46/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/turnDetector.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[47/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/monoMixdown.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[48/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/dspcore/vectorMVN.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[49/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalComponent.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[50/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/examples/exampleSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[51/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/examples/simpleMessageSender.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[52/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/ffmpeg/ffmpegSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[53/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionals.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[54/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalDCT.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[55/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalCrossings.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[56/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalModulation.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[57/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/io/libsvmSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[58/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalTimes.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[59/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalSamples.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[60/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalLpc.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[61/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalRegression.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[62/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalMoments.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[63/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalSegments.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[64/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalPeaks2.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[65/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalExtremes.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[66/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalOnset.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[67/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalPeaks.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[68/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalPercentiles.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[69/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/functionals/functionalMeans.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[70/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/externalAudioSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[71/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/datadumpSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[72/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/dataPrintSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[73/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/csvSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[74/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/csvSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[75/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/arffSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[76/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/arffSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[77/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/waveSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[78/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/htkSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[79/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/externalSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[80/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/externalSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[81/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/htkSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[82/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/waveSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[83/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/iocore/waveSinkCut.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[84/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/tonespec.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[85/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/intensity.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[86/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/tonefilt.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[87/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/pitchShs.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[88/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/harmonics.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[89/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/energy.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[90/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/lpc.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[91/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/pitchSmootherViterbi.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[92/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/lsp.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[93/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/chroma.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[94/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/pitchDirection.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[95/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/formantLpc.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[96/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/formantSmoother.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[97/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/cens.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[98/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lld/pitchJitter.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[99/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/melspec.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[100/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/mfcc.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[101/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/pitchBase.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[102/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/pitchACF.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[103/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/pitchSmoother.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[104/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/valbasedSelector.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[105/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/rnn/rnnProcessor.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[106/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/maxIndex.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[107/159] Building C object opensmile/CMakeFiles/opensmile.dir/src/smileutil/smileUtil.c.o
+[108/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/mzcr.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[109/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/rnn/rnnSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[110/159] Building C object opensmile/CMakeFiles/opensmile.dir/src/smileutil/smileUtilSpline.c.o
+[111/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/smileutil/zerosolve.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[112/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/vectorConcat.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[113/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/bowProducer.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[114/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/plp.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[115/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/lldcore/spectral.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[116/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/vectorOperation.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[117/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/submat.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[118/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/smileutil/smileUtilCsv.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[119/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/vectorBinaryOperation.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[120/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/svd.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[121/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/sort.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[122/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmatrm.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[123/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/portaudio/portaudioSink.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[124/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/rnn/rnnVad2.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[125/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/solution.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[126/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/portaudio/portaudioDuplex.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[127/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/jacobi.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[128/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/portaudio/portaudioWavplayer.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[129/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/portaudio/portaudioSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[130/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/bandmat.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[131/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/hholder.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[132/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/rnn/rnn.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[133/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/smileutil/JsonClasses.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[134/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/evalue.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[135/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/cholesky.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[136/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/fft.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[137/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/android/openslesSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[138/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat5.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[139/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat1.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[140/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat2.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[141/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat4.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[142/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat6.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[143/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat3.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[144/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat8.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[145/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat7.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[146/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/android/jniMessageInterface.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[147/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/other/externalMessageInterface.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[148/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/myexcept.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[149/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newfft.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[150/159] Building CXX object opensmile/CMakeFiles/opensmile.dir/src/video/openCVSource.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[151/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmatex.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[152/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmat9.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[153/159] Building CXX object opensmile/src/newmat/CMakeFiles/newmat.dir/newmatnl.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[154/159] Building CXX object opensmile/progsrc/smilextract/CMakeFiles/SMILExtract.dir/SMILExtract.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[155/159] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libopensmile.so
+[156/159] Linking CXX executable opensmile\progsrc\smilextract\SMILExtract
+[157/159] Building CXX object opensmile/progsrc/smileapi/CMakeFiles/SMILEapi.dir/SMILEapi.cpp.o
+clang++: warning: argument unused during compilation: '-fuse-ld=gold' [-Wunused-command-line-argument]
+[158/159] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libSMILEapi.so
+[159/159] Linking CXX shared module ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libopensmile_jni.so

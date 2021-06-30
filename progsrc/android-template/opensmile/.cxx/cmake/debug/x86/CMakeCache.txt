@@ -227,6 +227,12 @@ GIT_EXECUTABLE:FILEPATH=C:/Users/equipo/AppData/Local/Atlassian/SourceTree/git_l
 // Disable if the compiled binary needs to be portable.
 MARCH_NATIVE:BOOL=ON
 
+//Path to a file.
+OPENSLES_INCLUDE_DIR:PATH=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include
+
+//Path to a library.
+OPENSLES_LIBRARY:FILEPATH=C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/i686-linux-android/23/libOpenSLES.so
+
 //No help, variable specified on the command line.
 OPENSMILE_ROOT:UNINITIALIZED=../../../
 
@@ -255,7 +261,7 @@ WITH_JULIUS:BOOL=OFF
 WITH_OPENCV:BOOL=OFF
 
 //Compile with OpenSL ES support (Android only).
-WITH_OPENSLES:BOOL=OFF
+WITH_OPENSLES:BOOL=ON
 
 //Compile with PortAudio support.
 WITH_PORTAUDIO:BOOL=OFF
@@ -270,7 +276,7 @@ openSMILE_BINARY_DIR:STATIC=D:/GitHub/opensmile/progsrc/android-template/opensmi
 openSMILE_SOURCE_DIR:STATIC=D:/GitHub/opensmile
 
 //Dependencies for the target
-opensmile_LIB_DEPENDS:STATIC=general;Threads::Threads;general;dl;general;C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/i686-linux-android/23/liblog.so;
+opensmile_LIB_DEPENDS:STATIC=general;Threads::Threads;general;dl;general;C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/i686-linux-android/23/liblog.so;general;C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/i686-linux-android/23/libOpenSLES.so;
 
 //Dependencies for the target
 opensmile_jni_LIB_DEPENDS:STATIC=general;SMILEapi;general;C:/Users/equipo/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/i686-linux-android/23/liblog.so;

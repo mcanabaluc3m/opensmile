@@ -50,7 +50,8 @@ android {
 dependencies {
     useSourceImplementation project(path: ':opensmile')
     // Comment this line in case of using useSource build variant
-    useAarImplementation group: 'com.audeering.opensmile', name: 'opensmile-debug', ext: 'aar'
+    //useAarImplementation group: 'com.audeering.opensmile', name: 'opensmile-debug', ext: 'aar'
+    //implementation files('D:\\GitHub\\OpenSimle_Integration_Android\\TestOpenSmile\\app\\src\\main\\lib\\opensmile-debug.aar')
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'javax.vecmath:vecmath:1.5.2'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
